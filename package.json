@@ -2,7 +2,7 @@
   "name": "cheerio-comments",
   "version": "1.0.0",
   "description": "a web app that lets users view and leave comments on the latest news. Using Mongoose and Cheerio muscles to scrape news from another site.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
